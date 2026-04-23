@@ -45,15 +45,6 @@ This Business Intelligence project transforms raw transaction data into a 4-page
 
 ---
 
-## Dashboard Preview
-*(Insert screenshots of your 4 pages here)*
-1. **Overview Page:** ![Overview](Images/page1.png)
-2. **Regional Page:** ![Regional](Images/page2.png)
-3. **AI Decomposition:** ![AI Tree](Images/page3.png)
-4. **Insights Page:** ![Insights](Images/page4.png)
-
----
-
 ## Project Structure
 - `Ecommerce_SupplyChain_Analysis.pbix`: Source Power BI file.
 - `Data/`: Sample datasets in Kaggle (https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset) .
