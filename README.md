@@ -1,6 +1,5 @@
 # E-commerce & Supply Chain Intelligence Dashboard
 
-## Project Overview
 This Business Intelligence project transforms raw transaction data into a 4-page interactive dashboard to monitor **$10.25M in revenue** and **38,279 orders**. The goal is to provide stakeholders with actionable insights into sales performance, regional dominance, and payment behaviors to optimize supply chain efficiency.
 
 ---
