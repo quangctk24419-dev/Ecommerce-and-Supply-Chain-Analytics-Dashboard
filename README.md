@@ -17,7 +17,7 @@ This Business Intelligence project transforms raw transaction data into a 4-page
 
 ---
 
-## Dashboard Architecture (4 Specialized Pages)
+## Dashboard Architecture
 
 ### 1. Executive Overview (KPIs & Trends)
 - **Purpose:** Provide an "at-a-glance" status of the business.
